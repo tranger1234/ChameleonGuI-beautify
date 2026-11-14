@@ -1,0 +1,6 @@
+translation changes:
+  - changed-files:
+      - any-glob-to-any-file: '**/*en.arb'
+documentation:
+  - changed-files:
+      - any-glob-to-any-file: '**/*.md'
